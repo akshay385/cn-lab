@@ -19,9 +19,9 @@
   install the package ns-allinone2.35
   # it is recommended to use gcc4 .8, that is executed under the command line
   sudo apt install gcc-4.8 & g++-4.8
-  # After the installation is complete, enter the nc-allinone-2.35 directory to execute
+  ## After the installation is complete, enter the nc-allinone-2.35 directory to execute
   export CC=gcc-4.8 CXX=g++-4.8 && ./install
-  # I also installed several dependent modules first
+  ## I also installed several dependent modules first
   sudo apt-get install build-essential
   sudo apt-get install tcl8.5 tcl8.5-dev tk8.5 tk8.5-dev
   sudo apt-get install libxmu-dev libxmu-headers
