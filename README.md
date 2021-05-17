@@ -17,7 +17,7 @@
   
   ## command for prog4 [GSM implementation]
   install the package ns-allinone2.35
-  # it is recommended to use gcc4 .8, that is executed under the command line
+  ## it is recommended to use gcc4 .8, that is executed under the command line
   sudo apt install gcc-4.8 & g++-4.8
   ## After the installation is complete, enter the nc-allinone-2.35 directory to execute
   export CC=gcc-4.8 CXX=g++-4.8 && ./install
