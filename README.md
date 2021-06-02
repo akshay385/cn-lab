@@ -5,10 +5,12 @@
 
 ## command for program1 [point-to-point networks with duplex links]
   gedit ns1.tcl
+
   ns ns1.tcl
  
  ## command for program2 [transmission of ping messages/trace route over a network]
   gedit program2.tcl
+
   ns program2.tcl
   
   ## command for program3 [Ethernet LAN using n nodes] 
