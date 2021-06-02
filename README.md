@@ -33,45 +33,61 @@
    
   ## command for prog6 [error detecting code using CRC-CCITT]
   gedit CRC1.java
+ *****************
   javac CRC1.java
+ *****************
   java CRC1
   
   ## command for prog7 [bellman-ford algorithm]
   gedit bellmanford.java
+ ************************
   javac bellmanford.java
+ ************************
   java bellmanford
   
   ## command for prog8 [RSA algorithm to encrypt and decrypt the data]
   gedit RSA.java
+ *******************
   javac RSA.java
+ *******************
   java RSA
   
    ## command for prog9 [UDP Socket programming]
   gedit udpserver.java 
+ **********************
   javac udpserver.java
+ **********************
   java udpserver
   
    
   once the server is ready in an other terminal execute client
    
   gedit udpclient.java
+ **********************
   javac udpclient
+ **********************
   java udpclient
    
    ## commmand for prog10 [TCP/IP sockets]
   gedit TCPS.java
+ *********************
   javac TCPS.java
+ *********************
   java TCPS
   
   once the server is ready in an other terminal execute client
    
   gedit TCPC.java
+ *******************
   javac TCPS.java
+ *******************
   java TCPS
   
   ## commmand for prog10 [leaky bucket]
   gedit prog10.java
+ *******************
   javac prog10.java
+ ******************
   java prog10
   
   
